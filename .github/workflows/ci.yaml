@@ -44,7 +44,7 @@ jobs:
         uses: 'google-github-actions/auth@v1'
         with:
           workload_identity_provider: 'projects/innate-infusion-418917/locations/global/workloadIdentityPools/gh-actions-pool/providers/gh-actions-provider'
-          service_account: '701757388294-compute@developer.gserviceaccount.com'
+          service_account: 'yuanxiang@innate-infusion-418917.iam.gserviceaccount.com'
 
       # upload files to GCS
       - id: 'upload-static-files'
