@@ -4,9 +4,9 @@
 #show: book
 
 #book-meta(
-  title: "typst-book",
+  title: "2060 HW5",
   summary: [
-    #prefix-chapter("sample-page.typ")[Hello, typst]
+    #prefix-chapter("sample-page.typ")[Hello, Professor Dan!]
   ]
 )
 
